@@ -1,4 +1,4 @@
-### Hi, I'm Adrien 👋
+### Hi, I'm Adrien 
 
 Management Engineering @ University of Waterloo
 
