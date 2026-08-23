@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Adrien 👋
 
-<!--
-**a89cheng/a89cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management Engineering @ University of Waterloo
 
-Here are some ideas to get you started:
+🔭 Currently building: [Transit Reliability Tracker], a multi-agency GTA transit
+   reliability tracking (GO Transit, TTC) using Postgres, Airflow, dbt, and an
+   async GTFS-realtime poller
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently deepening: SQL internals, pipeline/orchestration design, concurrent
+   ingestion patterns, async & multithreaded programming 
+
+🛠️ Comfortable with: Python, SQL, PostgreSQL, FastAPI
+
+📌 Other projects: [Polaris Rocket Dashboard] · [Canbase Reinvented]
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrien-weiheng-cheng/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a89cheng1@uwaterloo.ca) 
+
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=OwenLi8888&icon=0&color=0)](https://visitcount.itsvg.in)
