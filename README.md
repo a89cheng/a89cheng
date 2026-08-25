@@ -1,4 +1,4 @@
-### Hi, I'm Adrien 
+### Hi there, I'm Adrien Cheng
 
 Management Engineering @ University of Waterloo
 
